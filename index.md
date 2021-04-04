@@ -15,9 +15,13 @@ I dare you to play Dance Dance Revolution with that!
 ### Personal Life
 Speaking of DDR, I am an avid gamer and *weeb*. I tend to stick towards RPGs, FPSs, and air-sim games. Some of my favorites include: 
 -[_Kingdom Hearts_](https://www.kingdomhearts.com/home/us/)
+
 -[_Final Fantasy_](https://en.wikipedia.org/wiki/Final_Fantasy)
+
 -[_Ace Combat_](https://acecombat.fandom.com/wiki/Ace_Combat)
+
 -[_Call of Duty_](https://www.callofduty.com/home)
+
 -[_Skyrim_](https://elderscrolls.bethesda.net/en/skyrim)
 
 As for my anime tendencies, I watch random stuff from stuff trending all over like Attack on Titan and lesser known works like Kino's Journey. My choices pretty much stem from animation style, music, or if I simply like the universe. If it has mechs, planes, or cars, I'm more inclined to give the first episode a try.
@@ -31,6 +35,7 @@ In the wise words of Darwin:
 > Listen to the music and dance right through the night!
 
 I've tried my hand at creating EDM, but it's still quite an amateurish track. I do hope to return to it someday when I can understand the intricacies of music theory better.
+
 [Art for my song](./yogurtdream.jpg)
 
 - []    Acquire a producer piano keyboard
